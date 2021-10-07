@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regofalcao
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android Development in Kotlin
+- 🌱 I’m currently learning Front-End Development
 <!-- -  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> 
 
