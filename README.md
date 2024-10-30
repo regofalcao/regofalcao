@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @regofalcao
-- 👀 I’m interested in Mobile and Web Development 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m  Full-Stack Developer 
 <div align="center">
   <a href="https://github.com/regofalcao">
